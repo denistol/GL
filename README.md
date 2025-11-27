@@ -78,6 +78,11 @@
 - Recommended VSCode settings & extensions
 
 ---
+
+# Schema example:
+
+<img src="db.example.png" alt="Database Schema" style="width: 100%;" />
+
 # QA
 
 > Framework Choice: Which frontend framework would you choose, and why? Consider static vs dynamic content needs
