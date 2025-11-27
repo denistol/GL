@@ -1,4 +1,4 @@
-# Global Architecture
+# Global info / Architecture
 
 ## Justification
 - **High load (1M+ visitors/day)** → offload static content to **AWS S3 + CloudFront**.
