@@ -83,7 +83,7 @@
 
 <img src="db.example.png" alt="Database Schema" style="width: 100%;" />
 
-# QA
+# Q/A
 
 > Framework Choice: Which frontend framework would you choose, and why? Consider static vs dynamic content needs
 
